@@ -1,4 +1,1 @@
-danuuo
-danielofosu
-danielo
-daniel
+# Set usernames that you want to check here e.g. elonmusk
